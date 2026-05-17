@@ -1,5 +1,10 @@
 This repository contains PA 20.1
 
+PLEASE NOTE:
+Please note, as previously discussed and agreed, my certification is sponsored by my company; therefore, I am required to complete the capstone project using an internal business use case.
+Due to company confidentiality policies, I am not authorized to share the original dataset. However, I can provide a detailed description of the data, methodology, and results obtained throughout the project.
+
+OVERVIEW
 Life insurance companies must accurately project future policy lapses (surrenders) to ensure financial stability, precise budgeting, 
 and compliance with stringent European regulatory frameworks like Solvency II (S2) and IFRS 17. 
 If an insurance company underestimates surrenders, it may face sudden liquidity shocks (not having enough cash on hand to pay out exiting policyholders). 
